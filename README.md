@@ -2,15 +2,9 @@
 <h4>" a vida é curta demais para minimizar seus talentos"</h4>
 📌Apaixonada em solucionar problemas.<br>
 📖estou sempre em busca de aprender algo novo.
- 
- ##
- 
-<div> 
-  
-  <img heinght="180" src="https://github-readme-stats.vercel.app/api?username=michelep0ntes&show_icons=true&theme=transparent"/>
-  <img heinght="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelep0ntes&hide_progress=true"/>   
-</div>
+
 <div style="float: right"><br>
+ <h4>linguagens que estou aprendendo:</h4>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,10 +13,18 @@
   
   </div>
   
-  
   ##
- 
+  <div align="center">
+ <h4>Contatos :</h4>
+  </div>
 <div align="center">
+  
   <a href="https://instagram.com/_michelepontes" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pontesmichele03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+
+<div> 
+  <h4> Desempenho </h4>
+  <img heinght="180" src="https://github-readme-stats.vercel.app/api?username=michelep0ntes&show_icons=true&theme=dark"/>
+
 </div>
