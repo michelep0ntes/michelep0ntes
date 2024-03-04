@@ -1,7 +1,8 @@
 # Michele Pontes
-<h4>" a vida é curta demais para minimizar seus talentos"</h4>
-📌Apaixonada em solucionar problemas.<br>
-📖estou sempre em busca de aprender algo novo.
+
+<h5 classe="animated-text">" A vida é curta demais para minimizar seus talentos"</h5>
+<p><h4>📌Apaixonada em solucionar problemas.<br>
+📖estou sempre em busca de aprender algo novo.</h4></p>
 
 <div style="float: right"><br>
  <h4>linguagens que estou aprendendo:</h4>
