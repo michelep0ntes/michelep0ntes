@@ -14,7 +14,9 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.discordapp.com/attachments/1057088577852407919/1214014239895977984/michele_gif.gif?ex=65f791de&is=65e51cde&hm=bf718a5e4d9a173d72aca264641f2b1c6c96ae4f6e09bf744fffbbb3880198ac&" alt="michele.gif" height="150" width="150"  
+  <img  align="right" width="150" src="https://cdn.discordapp.com/attachments/1057088577852407919/1214014239895977984/michele_gif.gif?ex=65f791de&is=65e51cde&hm=bf718a5e4d9a173d72aca264641f2b1c6c96ae4f6e09bf744fffbbb3880198ac&">
+</p>
+  
   </div>
   
   
