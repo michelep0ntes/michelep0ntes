@@ -25,7 +25,8 @@
 </div>
 
 <div> 
-  <h4> Desempenho </h4>
-  <img heinght="180" src="https://github-readme-stats.vercel.app/api?username=michelep0ntes&show_icons=true&theme=dark"/>
+  <h4> estatisticas </h4>
+  <img heinght="180" src="https://github-readme-stats.vercel.app/api?username=michelep0ntes&show_icons=true&theme=transparente"/>
+<img heinght="180" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=michelep0ntes&layout=compact"/>
 
 </div>
